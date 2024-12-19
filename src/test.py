@@ -1,3 +1,4 @@
+import numpy as np
 from environment import TicTacToe
 from agent import QLearningAgent
 
